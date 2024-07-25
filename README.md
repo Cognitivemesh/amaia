@@ -1,5 +1,5 @@
 # modulador
-AI-Engine which allows to modularize ( decoupling and decomposing) an application in decoupled modular components.
+AI-Engine which allows to modularize ( decoupling and decomposing) an application in decoupled modular Event driven Contract-first Asynchronous Architecture components.
 
 > **Modulador** is someone skilled in breaking down systems into independent and manageably interconnected pieces.
 
@@ -14,3 +14,13 @@ AI-Engine which allows to modularize ( decoupling and decomposing) an applicatio
 * *Modulador* should identify `domains` generate `logical boundaries`,`interfaces`, `abstractions`, and `communication protocols` within the system to separate into discrete `data entities` and minimize direct dependencies.
 * Generate a layer to handle communication between an application and its database, so the database layer can be changed without affecting the application layer.
 * *Modulador* generate `modules` that can be developed, tested, updated, upgraded, transformed, maintained, and deployed separately. Each `module` encapsulates `domain`, `data entities` and interacts with other modules through well-defined `contracts`.
+
+### Modules characteristics
+* Include Error tracing and handling based on cloud agnostic containers and Serverless.
+* Event development guide using API Function calling, contract design and mocking.
+* Create an event development guide with registry, mocking tools
+* AI-Engine should design the configuration of the contract used at the project. Their data contract Registry, explaining the specification on how to register the configuration of the data contracts. Finally, their data contract Mocking, explaing how to enable the data contract Mocking.
+
+## Modules features
+
+### Contract-first
