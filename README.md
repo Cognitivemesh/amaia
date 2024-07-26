@@ -24,3 +24,19 @@ AI-Engine which allows to modularize ( decoupling and decomposing) an applicatio
 ## Modules features
 
 ### Contract-first
+
+## Structure
+
+```shell
+model/
+├── schema/
+│   ├── tables/
+│   ├── views/
+│   └── triggers/
+├── data/
+│   ├── initial/
+│   └── tests/
+└── queries/
+    ├── reporting/
+    └── analytics/
+```
