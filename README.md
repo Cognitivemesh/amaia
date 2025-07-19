@@ -94,9 +94,9 @@ Amaia leverages a modern, powerful tech stack to deliver a seamless experience:
 
 ## 📈 Stats & Activity
 
-![GitHub Activity](https://img.shields.io/github/commit-activity/m/your-org/amaia)
-![GitHub Contributors](https://img.shields.io/github/contributors/your-org/amaia)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/your-org/amaia)
+![GitHub Activity](https://img.shields.io/github/commit-activity/m/Cognitivemesh/amaia)
+![GitHub Contributors](https://img.shields.io/github/contributors/Cognitivemesh/amaia)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Cognitivemesh/amaia)
 
 ---
 
@@ -181,9 +181,8 @@ Distributed under the [MIT License](LICENSE). See the license file for more info
 
 ## 🌐 Connect with Us
 
-- **Discord**: [Join our community](https://discord.gg/your-discord) 💬
-- **Issues**: [Report bugs or suggest features](https://github.com/your-org/amaia/issues) 🐞
-- **Docs**: [Explore the full documentation](docs/index.md) 📖
+* **Issues**: [Report bugs or suggest features](https://github.com/Cognitivemesh/amaia/issues) 🐞
+* **Docs**: [Explore the full documentation](docs/docs/index.md) 📖
 
 ---
 
