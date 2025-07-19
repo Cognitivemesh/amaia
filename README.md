@@ -4,7 +4,7 @@
 
 ![Amaia Banner](https://via.placeholder.com/1200x200.png?text=Amaia+AI+Knowledge+Base) <!-- Replace with actual banner -->
 
-Welcome to **Amaia**, the ultimate template for crafting AI-driven knowledge bases with Large Language Models (LLMs). Named after the Basque word for "culmination," Amaia brings together cutting-edge frontend and backend technologies to create intuitive, powerful, and modular applications. Whether you're building a chatbot, a data visualizer, or a research tool, Amaia has you covered! 🧠💻
+Welcome to **Amaia**, the ultimate template for crafting AI-driven knowledge bases with Large Language Models (LLMs). Amaia brings together cutting-edge frontend and backend technologies to create intuitive, powerful, and modular applications. Whether you're building a chatbot, a data visualizer, or a research tool, Amaia has you covered! 🧠💻
 
 [![GitHub Stars](https://img.shields.io/github/stars/cognitivemesh/amaia?style=social)](https://github.com/Cognitivemesh/amaia)
 [![GitHub Issues](https://img.shields.io/github/issues/cognitivemesh/amaia)](https://github.com/Cognitivemesh/amaia/issues)
