@@ -1,0 +1,30 @@
+```yaml
+site_name: Amaia Documentation
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: amber
+  features:
+    - content.code.copy
+    - content.tabs
+nav:
+  - Home: index.md
+  - Setup: setup.md
+  - Plugins: plugins.md
+  - API Reference: api.md
+  - Contributing: contributing.md
+markdown_extensions:
+  - admonition
+  - codehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            show_source: true
+repo_url: https://github.com/Cognitivemesh/amaia/
+```
