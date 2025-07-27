@@ -10,6 +10,18 @@ Amaia is a modular GitHub template for building AI-powered knowledge base applic
 - Ensure modularity for easy extension via plugins.
 - Support real-time data synchronization and cross-platform deployment.
 
+### Libraries
+
+* **CopilotKit:** A framework that makes it easy to add AI-powered assistants (like chatbots) to your app. Think of it as a virtual helper that can understand your app’s data and perform tasks, like answering questions or filling forms.
+* **LangGraph:** A tool to create workflows for AI agents, like a flowchart for how an AI should process tasks (e.g., search the web, summarize data, or update a database).
+* **LangChain:** A library that helps connect AI models to external data, like web searches or databases, to make the AI’s answers more accurate and relevant.
+* **Tavily:** A search API designed for AI apps, allowing your AI to fetch real-time information from the web, like a super-smart Google for your app.
+* **SurrealDB:** A flexible database that can store data in various formats (like tables or graphs) and syncs data in real-time, making it ideal for dynamic apps.
+* **FastAPI:** A fast and modern way to build APIs (connection points) that let your frontend talk to your backend and database.
+* **Deno/Next.js:** Tools for building a fast, modern frontend with React, making the user interface smooth and responsive.
+* **AntV X6/G6:** Libraries for creating interactive diagrams, like flowcharts or mind maps, to visualize complex data.
+* **Shadcn UI/Tailwind CSS:** Tools to make the UI look clean and professional with reusable components and styling.
+
 ## Feature Specifications
 
 ### 1. Knowledge Base Editor
